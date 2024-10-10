@@ -6,7 +6,7 @@ Please note that additional work is needed to make this example production-ready
 
 </br>
 
-## Prepration
+## Preparation
 
 Follow the steps below to install the required packages:
 
